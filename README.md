@@ -11,7 +11,7 @@ Getting Started
 ---------------
 
 1. Clone the repository
-   git clone [[[https://github.com/your-username/weather-api-service.git]()]](https://github.com/maverick-sam/Weather-Api.git)
+   git clone [https://github.com/maverick-sam/Weather-Api.git]
    cd weather-api-service
 
 2. Install dependencies
