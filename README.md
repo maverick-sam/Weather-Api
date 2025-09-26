@@ -53,7 +53,7 @@ Endpoint                     Method   Description                               
 --------                     ------   -----------                                -----------
 /weather/current             GET      Get current weather for a city             http://localhost:3000/weather/current?location=London
 /weather/forecast            GET      Get forecast for a city (1–7 days)        http://localhost:3000/weather/forecast?location=London&days=3
-/locations/search            GET      Search for locations by name               http://localhost:3000/locations/search?q=San%20Fran
+/locations/search            GET      Search for locations by name               http://localhost:3000/locations/search?q=America
 /health                      GET      Check server health                        http://localhost:3000/health
 
 How Each Endpoint Works
